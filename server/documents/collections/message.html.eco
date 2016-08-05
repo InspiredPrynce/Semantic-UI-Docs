@@ -6,7 +6,7 @@ standalone  : true
 element     : 'message'
 elementType : 'collection'
 
-title       : 'Message'
+title       : 'Semantic Message'
 description : 'A message displays information that explains nearby content'
 type        : 'UI Collection'
 
